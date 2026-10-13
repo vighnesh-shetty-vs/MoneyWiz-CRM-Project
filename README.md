@@ -1,3 +1,6 @@
+> **MoneyWiz CRM · Version 1 (Nov 2025)**: the original Jupyter Notebook data-processing project.
+> **Version 2**, a deployed Streamlit CRM with forecasting and segmentation, lives in [MoneyWiz-CRM-NewUpdate](https://github.com/vighnesh-shetty-vs/MoneyWiz-CRM-NewUpdate) ([live app](https://moneywiz-crm-newupdate-bexgwqs8fhq96q5aks7anm.streamlit.app/)).
+
 # 📌 MoneyWiz CRM Data Processing Project
 
 ## 📂 Project Overview
